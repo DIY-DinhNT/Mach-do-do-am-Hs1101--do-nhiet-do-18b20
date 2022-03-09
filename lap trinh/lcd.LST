@@ -1,0 +1,97 @@
+C51 COMPILER V8.05a   LCD                                                                  04/26/2013 15:54:58 PAGE 1   
+
+
+C51 COMPILER V8.05a, COMPILATION OF MODULE LCD
+OBJECT MODULE PLACED IN lcd.OBJ
+COMPILER INVOKED BY: C:\program files\Keil\C51\BIN\C51.EXE lcd.c OMF2 BROWSE DEBUG
+
+line level    source
+
+   1          #include <REGX52.H>
+   2          #include <lcd.h>
+   3          #include <stdio.h>
+   4          #include "hs1101/hs1101.c"
+   5          #include "ds18b20.c"
+   6          #define xoa_man_hinh            0x01
+   7          #define tat_con_tro             0x0c
+   8          #define ve_dau_dong_thu_nhat    0x80
+   9          sbit relay =    P3^7;
+  10          sbit sw1   =    P0^0;
+  11          sbit sw2   =    P0^1;
+  12                   
+  13          int xung,dem,frequency;
+  14          void delay_ms(unsigned int i)
+  15          {
+  16   1      unsigned int j,k;
+  17   1      for(j=0;j<i;j++)
+  18   1         for(k=0;k<120;k++);
+  19   1      }
+  20          void ngat0(void) interrupt 0
+  21          {
+  22   1      xung++;
+  23   1      }
+  24          void ngat_timer_0(void) interrupt 1
+  25          {
+  26   1      dem++;
+  27   1      if(dem >= 4000)
+  28   1              {
+  29   2              dem=0;
+  30   2              frequency = xung-2600;
+  31   2              xung=0;
+  32   2              }
+  33   1      
+  34   1      }
+  35          
+  36          void main(void)
+  37          { 
+  38   1       int humi,nhiet_do,nhiet_do2,nhiet_do3,nhiet_do_khong_che=40;
+  39   1      char str[20];
+  40   1      TMOD = 0x02;
+  41   1      TH0=TL0=-250;
+  42   1      IT0=1;
+  43   1      IE=0x83;
+  44   1      TR0=1;
+  45   1      lcd_init();
+  46   1      lcd_com(xoa_man_hinh);
+  47   1      while(1)
+  48   1              {
+  49   2              if(sw1 == 0)    {nhiet_do_khong_che++; if(nhiet_do_khong_che>=150) nhiet_do_khong_che=0; }
+  50   2              if(sw2 == 0)    {nhiet_do_khong_che--; if(nhiet_do_khong_che<=0) nhiet_do_khong_che=150; }
+  51   2               nhiet_do  = ReadTemp();
+  52   2               nhiet_do2 = ReadTemp();
+  53   2               nhiet_do3 = ReadTemp();
+  54   2               if((nhiet_do2 >= nhiet_do-4)&&(nhiet_do2 <= nhiet_do+4)&&(nhiet_do3 >= nhiet_do2-4)&&(nhiet_do3 <= nhiet
+             -_do2+4))
+C51 COMPILER V8.05a   LCD                                                                  04/26/2013 15:54:58 PAGE 2   
+
+  55   2                      {                        
+  56   3                      if(nhiet_do2 > nhiet_do_khong_che)      relay =1; else relay=0;
+  57   3                      humi=HS1101_GetHumi(frequency);
+  58   3                  sprintf(str,"Do Am:   %d %%   ",humi);
+  59   3                  lcd_gotoxy(1,0);
+  60   3                  lcd_puts(str);
+  61   3                      sprintf(str,"T=%doC  Tkc=%doC   ",nhiet_do,nhiet_do_khong_che);
+  62   3                      lcd_gotoxy(2,0);
+  63   3                      lcd_puts(str);
+  64   3                      }
+  65   2               delay_ms(100); 
+  66   2              }
+  67   1      }
+
+
+MODULE INFORMATION:   STATIC OVERLAYABLE
+   CODE SIZE        =    945    ----
+   CONSTANT SIZE    =    240    ----
+   XDATA SIZE       =   ----    ----
+   PDATA SIZE       =   ----    ----
+   DATA SIZE        =      6      33
+   IDATA SIZE       =   ----    ----
+   BIT SIZE         =      1    ----
+   EDATA SIZE       =   ----    ----
+   HDATA SIZE       =   ----    ----
+   XDATA CONST SIZE =   ----    ----
+   FAR CONST SIZE   =   ----    ----
+END OF MODULE INFORMATION.
+
+
+C51 COMPILATION COMPLETE.  0 WARNING(S),  0 ERROR(S)

@@ -1,0 +1,4028 @@
+<html>
+<body>
+<pre>
+<h1>µVision3 Build Log</h1>
+<h2>Project:</h2>
+E:\5.DO AN MON\5.DO AN VDK\7.8051\2,DO KHONG CHE NHIETDO DOAM\lap trinh\vidu.uv2
+Project File Date:  04/22/2013
+
+<h2>Output:</h2>
+Build target 'Target 1'
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    WRITE_DS1307/LCD
+Program Size: data=31.2 xdata=0 const=0 code=1261
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    WRITE_DS1307/LCD
+Program Size: data=31.2 xdata=0 const=0 code=1261
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    WRITE_DS1307/LCD
+Program Size: data=31.2 xdata=0 const=0 code=1261
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+compiling lcd.c...
+LCD.C(20): warning C280: 'test1': unreferenced local variable
+LCD.C(20): warning C280: 'test2': unreferenced local variable
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _LCD_PUTS/LCD
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _LCD_GOTOXY/LCD
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+Program Size: data=20.1 xdata=0 const=0 code=732
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 5 Warning(s).
+Build target 'Target 1'
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _LCD_PUTS/LCD
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _LCD_GOTOXY/LCD
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+Program Size: data=20.1 xdata=0 const=0 code=732
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 3 Warning(s).
+Build target 'Target 1'
+compiling lcd.c...
+LCD.C(18): warning C280: 'i': unreferenced local variable
+LCD.C(20): warning C280: 'test1': unreferenced local variable
+LCD.C(20): warning C280: 'test2': unreferenced local variable
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _LCD_GOTOXY/LCD
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _DELAY_MS/LCD
+Program Size: data=20.1 xdata=0 const=0 code=633
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 6 Warning(s).
+Build target 'Target 1'
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _LCD_GOTOXY/LCD
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _DELAY_MS/LCD
+Program Size: data=20.1 xdata=0 const=0 code=633
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 3 Warning(s).
+Build target 'Target 1'
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _LCD_GOTOXY/LCD
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _DELAY_MS/LCD
+Program Size: data=20.1 xdata=0 const=0 code=633
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 3 Warning(s).
+Build target 'Target 1'
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _LCD_GOTOXY/LCD
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _DELAY_MS/LCD
+Program Size: data=20.1 xdata=0 const=0 code=633
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 3 Warning(s).
+Build target 'Target 1'
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _LCD_GOTOXY/LCD
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _DELAY_MS/LCD
+Program Size: data=20.1 xdata=0 const=0 code=633
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 3 Warning(s).
+Build target 'Target 1'
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _LCD_GOTOXY/LCD
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _DELAY_MS/LCD
+Program Size: data=20.1 xdata=0 const=0 code=633
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 3 Warning(s).
+Build target 'Target 1'
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _LCD_GOTOXY/LCD
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _DELAY_MS/LCD
+Program Size: data=20.1 xdata=0 const=0 code=633
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 3 Warning(s).
+Build target 'Target 1'
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _LCD_GOTOXY/LCD
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _DELAY_MS/LCD
+Program Size: data=20.1 xdata=0 const=0 code=633
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 3 Warning(s).
+Build target 'Target 1'
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _LCD_GOTOXY/LCD
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _DELAY_MS/LCD
+Program Size: data=20.1 xdata=0 const=0 code=633
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 3 Warning(s).
+Build target 'Target 1'
+compiling lcd.c...
+LCD.C(18): warning C280: 'i': unreferenced local variable
+LCD.C(20): warning C280: 'test1': unreferenced local variable
+LCD.C(20): warning C280: 'test2': unreferenced local variable
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _LCD_GOTOXY/LCD
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _DELAY_MS/LCD
+Program Size: data=20.1 xdata=0 const=0 code=633
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 6 Warning(s).
+Build target 'Target 1'
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _LCD_GOTOXY/LCD
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _DELAY_MS/LCD
+Program Size: data=20.1 xdata=0 const=0 code=633
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 3 Warning(s).
+Build target 'Target 1'
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _LCD_GOTOXY/LCD
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _DELAY_MS/LCD
+Program Size: data=20.1 xdata=0 const=0 code=633
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 3 Warning(s).
+Build target 'Target 1'
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _LCD_GOTOXY/LCD
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _DELAY_MS/LCD
+Program Size: data=20.1 xdata=0 const=0 code=633
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 3 Warning(s).
+Build target 'Target 1'
+compiling lcd.c...
+\5.DO AN MON\5.DO AN VDK\7.8051\2,DO KHONG CHE NHIETDO DOAM\LAP TRINH\HS1101\HS1101.H(18): warning C318: can't open file 'main.h'
+\5.DO AN MON\5.DO AN VDK\7.8051\2,DO KHONG CHE NHIETDO DOAM\LAP TRINH\HS1101\HS1101.H(25): error C129: missing ';' before 'HS1101_GetHumi'
+Target not created
+Build target 'Target 1'
+compiling lcd.c...
+\5.DO AN MON\5.DO AN VDK\7.8051\2,DO KHONG CHE NHIETDO DOAM\LAP TRINH\HS1101\HS1101.H(18): warning C318: can't open file 'main.h'
+\5.DO AN MON\5.DO AN VDK\7.8051\2,DO KHONG CHE NHIETDO DOAM\LAP TRINH\HS1101\HS1101.H(25): error C129: missing ';' before 'HS1101_GetHumi'
+Target not created
+Build target 'Target 1'
+compiling lcd.c...
+\5.DO AN MON\5.DO AN VDK\7.8051\2,DO KHONG CHE NHIETDO DOAM\LAP TRINH\HS1101\HS1101.H(18): warning C318: can't open file 'main.h'
+\5.DO AN MON\5.DO AN VDK\7.8051\2,DO KHONG CHE NHIETDO DOAM\LAP TRINH\HS1101\HS1101.H(25): error C129: missing ';' before 'HS1101_GetHumi'
+Target not created
+Build target 'Target 1'
+compiling lcd.c...
+\5.DO AN MON\5.DO AN VDK\7.8051\2,DO KHONG CHE NHIETDO DOAM\LAP TRINH\HS1101\HS1101.H(18): error C129: missing ';' before 'bit'
+Target not created
+Build target 'Target 1'
+compiling lcd.c...
+\5.DO AN MON\5.DO AN VDK\7.8051\2,DO KHONG CHE NHIETDO DOAM\LAP TRINH\HS1101\HS1101.H(18): error C129: missing ';' before 'bit'
+Target not created
+Build target 'Target 1'
+compiling lcd.c...
+\5.DO AN MON\5.DO AN VDK\7.8051\2,DO KHONG CHE NHIETDO DOAM\LAP TRINH\HS1101\HS1101.H(21): error C141: syntax error near 'long'
+\5.DO AN MON\5.DO AN VDK\7.8051\2,DO KHONG CHE NHIETDO DOAM\LAP TRINH\HS1101\HS1101.H(26): error C141: syntax error near 'long'
+Target not created
+Build target 'Target 1'
+compiling lcd.c...
+\5.DO AN MON\5.DO AN VDK\7.8051\2,DO KHONG CHE NHIETDO DOAM\LAP TRINH\HS1101\HS1101.H(21): error C141: syntax error near 'long'
+\5.DO AN MON\5.DO AN VDK\7.8051\2,DO KHONG CHE NHIETDO DOAM\LAP TRINH\HS1101\HS1101.H(26): error C141: syntax error near 'long'
+Target not created
+Build target 'Target 1'
+compiling lcd.c...
+\5.DO AN MON\5.DO AN VDK\7.8051\2,DO KHONG CHE NHIETDO DOAM\LAP TRINH\HS1101\HS1101.H(26): error C129: missing ';' before 'HS1101_GetHumi'
+Target not created
+Build target 'Target 1'
+compiling lcd.c...
+\5.DO AN MON\5.DO AN VDK\7.8051\2,DO KHONG CHE NHIETDO DOAM\LAP TRINH\HS1101\HS1101.H(26): error C129: missing ';' before 'HS1101_GetHumi'
+Target not created
+Build target 'Target 1'
+compiling lcd.c...
+\5.DO AN MON\5.DO AN VDK\7.8051\2,DO KHONG CHE NHIETDO DOAM\LAP TRINH\HS1101\HS1101.H(26): error C141: syntax error near 'frequency', expected ')'
+HS1101/HS1101.C(17): error C129: missing ';' before 'HS1101_Table'
+Target not created
+Build target 'Target 1'
+compiling lcd.c...
+\5.DO AN MON\5.DO AN VDK\7.8051\2,DO KHONG CHE NHIETDO DOAM\LAP TRINH\HS1101\HS1101.H(26): error C141: syntax error near 'frequency', expected ')'
+HS1101/HS1101.C(17): error C129: missing ';' before 'HS1101_Table'
+Target not created
+Build target 'Target 1'
+compiling lcd.c...
+HS1101/HS1101.C(17): error C129: missing ';' before 'HS1101_Table'
+Target not created
+Build target 'Target 1'
+compiling lcd.c...
+HS1101/HS1101.C(17): error C129: missing ';' before 'HS1101_Table'
+Target not created
+Build target 'Target 1'
+compiling lcd.c...
+\5.DO AN MON\5.DO AN VDK\7.8051\2,DO KHONG CHE NHIETDO DOAM\LAP TRINH\HS1101\HS1101.H(21): error C141: syntax error near 'long'
+\5.DO AN MON\5.DO AN VDK\7.8051\2,DO KHONG CHE NHIETDO DOAM\LAP TRINH\HS1101\HS1101.H(26): error C141: syntax error near 'long'
+Target not created
+Build target 'Target 1'
+compiling lcd.c...
+\5.DO AN MON\5.DO AN VDK\7.8051\2,DO KHONG CHE NHIETDO DOAM\LAP TRINH\HS1101\HS1101.H(21): error C141: syntax error near 'long'
+\5.DO AN MON\5.DO AN VDK\7.8051\2,DO KHONG CHE NHIETDO DOAM\LAP TRINH\HS1101\HS1101.H(26): error C141: syntax error near 'long'
+Target not created
+Build target 'Target 1'
+compiling lcd.c...
+\5.DO AN MON\5.DO AN VDK\7.8051\2,DO KHONG CHE NHIETDO DOAM\LAP TRINH\HS1101\HS1101.H(26): error C141: syntax error near 'long'
+Target not created
+Build target 'Target 1'
+compiling lcd.c...
+\5.DO AN MON\5.DO AN VDK\7.8051\2,DO KHONG CHE NHIETDO DOAM\LAP TRINH\HS1101\HS1101.H(26): error C141: syntax error near 'long'
+Target not created
+Build target 'Target 1'
+compiling lcd.c...
+\5.DO AN MON\5.DO AN VDK\7.8051\2,DO KHONG CHE NHIETDO DOAM\LAP TRINH\HS1101\HS1101.H(26): error C141: syntax error near 'long'
+Target not created
+Build target 'Target 1'
+compiling lcd.c...
+\5.DO AN MON\5.DO AN VDK\7.8051\2,DO KHONG CHE NHIETDO DOAM\LAP TRINH\HS1101\HS1101.H(26): error C141: syntax error near 'long'
+Target not created
+Build target 'Target 1'
+compiling lcd.c...
+\5.DO AN MON\5.DO AN VDK\7.8051\2,DO KHONG CHE NHIETDO DOAM\LAP TRINH\HS1101\HS1101.H(26): error C141: syntax error near 'long'
+Target not created
+Build target 'Target 1'
+compiling lcd.c...
+\5.DO AN MON\5.DO AN VDK\7.8051\2,DO KHONG CHE NHIETDO DOAM\LAP TRINH\HS1101\HS1101.H(26): error C141: syntax error near 'long'
+Target not created
+Build target 'Target 1'
+compiling lcd.c...
+HS1101/HS1101.C(17): error C129: missing ';' before 'HS1101_Table'
+Target not created
+Build target 'Target 1'
+compiling lcd.c...
+HS1101/HS1101.C(17): error C129: missing ';' before 'HS1101_Table'
+Target not created
+Build target 'Target 1'
+compiling lcd.c...
+HS1101/HS1101.C(34): error C129: missing ';' before 'HS1101_GetHumi'
+Target not created
+Build target 'Target 1'
+compiling lcd.c...
+HS1101/HS1101.C(34): error C129: missing ';' before 'HS1101_GetHumi'
+Target not created
+Build target 'Target 1'
+compiling lcd.c...
+HS1101/HS1101.C(34): error C141: syntax error near 'frequency', expected ')'
+Target not created
+Build target 'Target 1'
+compiling lcd.c...
+HS1101/HS1101.C(34): error C141: syntax error near 'frequency', expected ')'
+Target not created
+Build target 'Target 1'
+compiling lcd.c...
+HS1101/HS1101.C(36): error C202: 'uint8_t': undefined identifier
+HS1101/HS1101.C(36): error C141: syntax error near 'i'
+HS1101/HS1101.C(37): error C202: 'i': undefined identifier
+HS1101/HS1101.C(39): error C202: 'i': undefined identifier
+HS1101/HS1101.C(39): error C202: 'i': undefined identifier
+Target not created
+Build target 'Target 1'
+compiling lcd.c...
+HS1101/HS1101.C(36): error C202: 'uint8_t': undefined identifier
+HS1101/HS1101.C(36): error C141: syntax error near 'i'
+HS1101/HS1101.C(37): error C202: 'i': undefined identifier
+HS1101/HS1101.C(39): error C202: 'i': undefined identifier
+HS1101/HS1101.C(39): error C202: 'i': undefined identifier
+Target not created
+Build target 'Target 1'
+compiling lcd.c...
+LCD.C(19): warning C280: 'i': unreferenced local variable
+LCD.C(21): warning C280: 'test1': unreferenced local variable
+LCD.C(21): warning C280: 'test2': unreferenced local variable
+LCD.C(35): error C249: 'DATA': SEGMENT TOO LARGE
+Target not created
+Build target 'Target 1'
+compiling lcd.c...
+LCD.C(19): warning C280: 'i': unreferenced local variable
+LCD.C(21): warning C280: 'test1': unreferenced local variable
+LCD.C(21): warning C280: 'test2': unreferenced local variable
+LCD.C(33): error C249: 'DATA': SEGMENT TOO LARGE
+Target not created
+Build target 'Target 1'
+compiling lcd.c...
+LCD.C(19): warning C280: 'i': unreferenced local variable
+LCD.C(21): warning C280: 'test1': unreferenced local variable
+LCD.C(21): warning C280: 'test2': unreferenced local variable
+LCD.C(33): error C249: 'DATA': SEGMENT TOO LARGE
+Target not created
+Build target 'Target 1'
+compiling lcd.c...
+LCD.C(30): error C249: 'DATA': SEGMENT TOO LARGE
+Target not created
+Build target 'Target 1'
+compiling lcd.c...
+LCD.C(30): error C249: 'DATA': SEGMENT TOO LARGE
+Target not created
+Build target 'Target 1'
+compiling lcd.c...
+LCD.C(30): error C249: 'DATA': SEGMENT TOO LARGE
+Target not created
+Build target 'Target 1'
+compiling lcd.c...
+LCD.C(30): error C249: 'DATA': SEGMENT TOO LARGE
+Target not created
+Build target 'Target 1'
+compiling lcd.c...
+LCD.C(30): error C249: 'DATA': SEGMENT TOO LARGE
+Target not created
+Build target 'Target 1'
+compiling lcd.c...
+LCD.C(30): error C249: 'DATA': SEGMENT TOO LARGE
+Target not created
+Build target 'Target 1'
+compiling lcd.c...
+LCD.C(30): error C249: 'DATA': SEGMENT TOO LARGE
+Target not created
+Build target 'Target 1'
+compiling lcd.c...
+LCD.C(30): error C249: 'DATA': SEGMENT TOO LARGE
+Target not created
+Build target 'Target 1'
+compiling lcd.c...
+LCD.C(30): error C249: 'DATA': SEGMENT TOO LARGE
+Target not created
+Build target 'Target 1'
+compiling lcd.c...
+LCD.C(28): error C249: 'DATA': SEGMENT TOO LARGE
+Target not created
+Build target 'Target 1'
+compiling lcd.c...
+LCD.C(28): error C249: 'DATA': SEGMENT TOO LARGE
+Target not created
+Build target 'Target 1'
+compiling lcd.c...
+LCD.C(28): error C249: 'DATA': SEGMENT TOO LARGE
+Target not created
+Build target 'Target 1'
+compiling lcd.c...
+LCD.C(28): error C249: 'DATA': SEGMENT TOO LARGE
+Target not created
+Build target 'Target 1'
+compiling lcd.c...
+LCD.C(28): error C249: 'DATA': SEGMENT TOO LARGE
+Target not created
+Build target 'Target 1'
+compiling lcd.c...
+LCD.C(28): error C249: 'DATA': SEGMENT TOO LARGE
+Target not created
+Build target 'Target 1'
+compiling lcd.c...
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _LCD_GOTOXY/LCD
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _DELAY_MS/LCD
+Program Size: data=15.1 xdata=0 const=0 code=630
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 3 Warning(s).
+Build target 'Target 1'
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _LCD_GOTOXY/LCD
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _DELAY_MS/LCD
+Program Size: data=15.1 xdata=0 const=0 code=630
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 3 Warning(s).
+Build target 'Target 1'
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _LCD_GOTOXY/LCD
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _DELAY_MS/LCD
+Program Size: data=15.1 xdata=0 const=0 code=630
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 3 Warning(s).
+Build target 'Target 1'
+compiling lcd.c...
+LCD.C(28): error C249: 'DATA': SEGMENT TOO LARGE
+Target not created
+Build target 'Target 1'
+compiling lcd.c...
+LCD.C(28): error C249: 'DATA': SEGMENT TOO LARGE
+Target not created
+Build target 'Target 1'
+compiling lcd.c...
+LCD.C(28): error C249: 'DATA': SEGMENT TOO LARGE
+Target not created
+Build target 'Target 1'
+compiling lcd.c...
+LCD.C(28): error C249: 'DATA': SEGMENT TOO LARGE
+Target not created
+Build target 'Target 1'
+compiling lcd.c...
+LCD.C(28): error C249: 'DATA': SEGMENT TOO LARGE
+Target not created
+Build target 'Target 1'
+compiling lcd.c...
+LCD.C(28): error C249: 'DATA': SEGMENT TOO LARGE
+Target not created
+Build target 'Target 1'
+compiling lcd.c...
+LCD.C(28): error C249: 'DATA': SEGMENT TOO LARGE
+Target not created
+Build target 'Target 1'
+compiling lcd.c...
+LCD.C(28): error C249: 'DATA': SEGMENT TOO LARGE
+Target not created
+Build target 'Target 1'
+compiling lcd.c...
+LCD.C(28): error C249: 'DATA': SEGMENT TOO LARGE
+Target not created
+Build target 'Target 1'
+compiling lcd.c...
+HS1101/HS1101.C(39): error C202: 'HS1101_Table': undefined identifier
+Target not created
+Build target 'Target 1'
+compiling lcd.c...
+HS1101/HS1101.C(39): error C202: 'HS1101_Table': undefined identifier
+Target not created
+Build target 'Target 1'
+compiling lcd.c...
+HS1101/HS1101.C(36): error C129: missing ';' before 'unsigned'
+Target not created
+Build target 'Target 1'
+compiling lcd.c...
+HS1101/HS1101.C(36): error C129: missing ';' before 'unsigned'
+Target not created
+Build target 'Target 1'
+compiling lcd.c...
+HS1101/HS1101.C(36): error C129: missing ';' before 'unsigned'
+Target not created
+Build target 'Target 1'
+compiling lcd.c...
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _LCD_GOTOXY/LCD
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _HS1101_GETHUMI/LCD
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _DELAY_MS/LCD
+Program Size: data=17.1 xdata=0 const=0 code=671
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 4 Warning(s).
+Build target 'Target 1'
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _LCD_GOTOXY/LCD
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _HS1101_GETHUMI/LCD
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _DELAY_MS/LCD
+Program Size: data=17.1 xdata=0 const=0 code=671
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 4 Warning(s).
+Build target 'Target 1'
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _LCD_GOTOXY/LCD
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _HS1101_GETHUMI/LCD
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _DELAY_MS/LCD
+Program Size: data=17.1 xdata=0 const=0 code=671
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 4 Warning(s).
+Build target 'Target 1'
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _LCD_GOTOXY/LCD
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _HS1101_GETHUMI/LCD
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _DELAY_MS/LCD
+Program Size: data=17.1 xdata=0 const=0 code=671
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 4 Warning(s).
+Build target 'Target 1'
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _LCD_GOTOXY/LCD
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _HS1101_GETHUMI/LCD
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _DELAY_MS/LCD
+Program Size: data=17.1 xdata=0 const=0 code=671
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 4 Warning(s).
+Build target 'Target 1'
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _LCD_GOTOXY/LCD
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _HS1101_GETHUMI/LCD
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _DELAY_MS/LCD
+Program Size: data=17.1 xdata=0 const=0 code=671
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 4 Warning(s).
+Build target 'Target 1'
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _LCD_GOTOXY/LCD
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _HS1101_GETHUMI/LCD
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _DELAY_MS/LCD
+Program Size: data=17.1 xdata=0 const=0 code=671
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 4 Warning(s).
+Build target 'Target 1'
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _LCD_GOTOXY/LCD
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _HS1101_GETHUMI/LCD
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _DELAY_MS/LCD
+Program Size: data=17.1 xdata=0 const=0 code=671
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 4 Warning(s).
+Build target 'Target 1'
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _LCD_GOTOXY/LCD
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _HS1101_GETHUMI/LCD
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _DELAY_MS/LCD
+Program Size: data=17.1 xdata=0 const=0 code=671
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 4 Warning(s).
+Build target 'Target 1'
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _LCD_GOTOXY/LCD
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _HS1101_GETHUMI/LCD
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _DELAY_MS/LCD
+Program Size: data=17.1 xdata=0 const=0 code=671
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 4 Warning(s).
+Build target 'Target 1'
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _LCD_GOTOXY/LCD
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _HS1101_GETHUMI/LCD
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _DELAY_MS/LCD
+Program Size: data=17.1 xdata=0 const=0 code=671
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 4 Warning(s).
+Build target 'Target 1'
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _LCD_GOTOXY/LCD
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _HS1101_GETHUMI/LCD
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _DELAY_MS/LCD
+Program Size: data=17.1 xdata=0 const=0 code=671
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 4 Warning(s).
+Build target 'Target 1'
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _LCD_GOTOXY/LCD
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _HS1101_GETHUMI/LCD
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _DELAY_MS/LCD
+Program Size: data=17.1 xdata=0 const=0 code=671
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 4 Warning(s).
+Build target 'Target 1'
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _LCD_GOTOXY/LCD
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _HS1101_GETHUMI/LCD
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _DELAY_MS/LCD
+Program Size: data=17.1 xdata=0 const=0 code=671
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 4 Warning(s).
+Build target 'Target 1'
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _LCD_GOTOXY/LCD
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _HS1101_GETHUMI/LCD
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _DELAY_MS/LCD
+Program Size: data=17.1 xdata=0 const=0 code=671
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 4 Warning(s).
+Build target 'Target 1'
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _LCD_GOTOXY/LCD
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _HS1101_GETHUMI/LCD
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _DELAY_MS/LCD
+Program Size: data=17.1 xdata=0 const=0 code=671
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 4 Warning(s).
+Build target 'Target 1'
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _LCD_GOTOXY/LCD
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _HS1101_GETHUMI/LCD
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _DELAY_MS/LCD
+Program Size: data=17.1 xdata=0 const=0 code=671
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 4 Warning(s).
+Build target 'Target 1'
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _LCD_GOTOXY/LCD
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _HS1101_GETHUMI/LCD
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _DELAY_MS/LCD
+Program Size: data=17.1 xdata=0 const=0 code=671
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 4 Warning(s).
+Build target 'Target 1'
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _LCD_GOTOXY/LCD
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _HS1101_GETHUMI/LCD
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _DELAY_MS/LCD
+Program Size: data=17.1 xdata=0 const=0 code=671
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 4 Warning(s).
+Build target 'Target 1'
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _LCD_GOTOXY/LCD
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _HS1101_GETHUMI/LCD
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _DELAY_MS/LCD
+Program Size: data=17.1 xdata=0 const=0 code=671
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 4 Warning(s).
+Build target 'Target 1'
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _LCD_GOTOXY/LCD
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _HS1101_GETHUMI/LCD
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _DELAY_MS/LCD
+Program Size: data=17.1 xdata=0 const=0 code=671
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 4 Warning(s).
+Build target 'Target 1'
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _LCD_GOTOXY/LCD
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _HS1101_GETHUMI/LCD
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _DELAY_MS/LCD
+Program Size: data=17.1 xdata=0 const=0 code=671
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 4 Warning(s).
+Build target 'Target 1'
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _LCD_GOTOXY/LCD
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _HS1101_GETHUMI/LCD
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _DELAY_MS/LCD
+Program Size: data=17.1 xdata=0 const=0 code=671
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 4 Warning(s).
+Build target 'Target 1'
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _LCD_GOTOXY/LCD
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _HS1101_GETHUMI/LCD
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _DELAY_MS/LCD
+Program Size: data=17.1 xdata=0 const=0 code=671
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 4 Warning(s).
+Build target 'Target 1'
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _LCD_GOTOXY/LCD
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _HS1101_GETHUMI/LCD
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _DELAY_MS/LCD
+Program Size: data=17.1 xdata=0 const=0 code=671
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 4 Warning(s).
+Build target 'Target 1'
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _LCD_GOTOXY/LCD
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _HS1101_GETHUMI/LCD
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _DELAY_MS/LCD
+Program Size: data=17.1 xdata=0 const=0 code=671
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 4 Warning(s).
+Build target 'Target 1'
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _LCD_GOTOXY/LCD
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _HS1101_GETHUMI/LCD
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _DELAY_MS/LCD
+Program Size: data=17.1 xdata=0 const=0 code=671
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 4 Warning(s).
+Build target 'Target 1'
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _LCD_GOTOXY/LCD
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _HS1101_GETHUMI/LCD
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _DELAY_MS/LCD
+Program Size: data=17.1 xdata=0 const=0 code=671
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 4 Warning(s).
+Build target 'Target 1'
+compiling lcd.c...
+LCD.C(28): error C249: 'DATA': SEGMENT TOO LARGE
+Target not created
+Build target 'Target 1'
+compiling lcd.c...
+LCD.C(28): error C249: 'DATA': SEGMENT TOO LARGE
+Target not created
+Build target 'Target 1'
+compiling lcd.c...
+LCD.C(28): error C249: 'DATA': SEGMENT TOO LARGE
+Target not created
+Build target 'Target 1'
+compiling lcd.c...
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _LCD_GOTOXY/LCD
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _HS1101_GETHUMI/LCD
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _DELAY_MS/LCD
+*** ERROR L107: ADDRESS SPACE OVERFLOW
+    SPACE:   DATA
+    SEGMENT: ?DT?LCD
+    LENGTH:  000064H   
+Program Size: data=115.1 xdata=0 const=0 code=671
+Target not created
+Build target 'Target 1'
+compiling lcd.c...
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _LCD_GOTOXY/LCD
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _HS1101_GETHUMI/LCD
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _DELAY_MS/LCD
+Program Size: data=17.1 xdata=0 const=0 code=877
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 4 Warning(s).
+Build target 'Target 1'
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _LCD_GOTOXY/LCD
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _HS1101_GETHUMI/LCD
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _DELAY_MS/LCD
+Program Size: data=17.1 xdata=0 const=0 code=877
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 4 Warning(s).
+Build target 'Target 1'
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _LCD_GOTOXY/LCD
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _HS1101_GETHUMI/LCD
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _DELAY_MS/LCD
+Program Size: data=17.1 xdata=0 const=0 code=877
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 4 Warning(s).
+Build target 'Target 1'
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _LCD_GOTOXY/LCD
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _HS1101_GETHUMI/LCD
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _DELAY_MS/LCD
+Program Size: data=17.1 xdata=0 const=0 code=877
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 4 Warning(s).
+Build target 'Target 1'
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _LCD_GOTOXY/LCD
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _HS1101_GETHUMI/LCD
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _DELAY_MS/LCD
+Program Size: data=17.1 xdata=0 const=0 code=877
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 4 Warning(s).
+Build target 'Target 1'
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _LCD_GOTOXY/LCD
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _HS1101_GETHUMI/LCD
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _DELAY_MS/LCD
+Program Size: data=17.1 xdata=0 const=0 code=877
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 4 Warning(s).
+Build target 'Target 1'
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _LCD_GOTOXY/LCD
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _HS1101_GETHUMI/LCD
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _DELAY_MS/LCD
+Program Size: data=17.1 xdata=0 const=0 code=877
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 4 Warning(s).
+Build target 'Target 1'
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _LCD_GOTOXY/LCD
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _HS1101_GETHUMI/LCD
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _DELAY_MS/LCD
+Program Size: data=17.1 xdata=0 const=0 code=877
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 4 Warning(s).
+Build target 'Target 1'
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _LCD_GOTOXY/LCD
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _HS1101_GETHUMI/LCD
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _DELAY_MS/LCD
+Program Size: data=17.1 xdata=0 const=0 code=877
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 4 Warning(s).
+Build target 'Target 1'
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _LCD_GOTOXY/LCD
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _HS1101_GETHUMI/LCD
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _DELAY_MS/LCD
+Program Size: data=17.1 xdata=0 const=0 code=877
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 4 Warning(s).
+Build target 'Target 1'
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _LCD_GOTOXY/LCD
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _HS1101_GETHUMI/LCD
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _DELAY_MS/LCD
+Program Size: data=17.1 xdata=0 const=0 code=877
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 4 Warning(s).
+Build target 'Target 1'
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _LCD_GOTOXY/LCD
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _HS1101_GETHUMI/LCD
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _DELAY_MS/LCD
+Program Size: data=17.1 xdata=0 const=0 code=877
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 4 Warning(s).
+Build target 'Target 1'
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _LCD_GOTOXY/LCD
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _HS1101_GETHUMI/LCD
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _DELAY_MS/LCD
+Program Size: data=17.1 xdata=0 const=0 code=877
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 4 Warning(s).
+Build target 'Target 1'
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _LCD_GOTOXY/LCD
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _HS1101_GETHUMI/LCD
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _DELAY_MS/LCD
+Program Size: data=17.1 xdata=0 const=0 code=877
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 4 Warning(s).
+Build target 'Target 1'
+compiling lcd.c...
+LCD.C(29): error C202: 'frequency': undefined identifier
+LCD.C(30): error C202: 'enable_display': undefined identifier
+LCD.C(31): error C202: 'str': undefined identifier
+Target not created
+Build target 'Target 1'
+compiling lcd.c...
+LCD.C(29): error C202: 'frequency': undefined identifier
+LCD.C(30): error C202: 'enable_display': undefined identifier
+LCD.C(31): error C202: 'str': undefined identifier
+Target not created
+Build target 'Target 1'
+compiling lcd.c...
+LCD.C(29): error C202: 'frequency': undefined identifier
+LCD.C(30): error C202: 'enable_display': undefined identifier
+LCD.C(31): error C202: 'str': undefined identifier
+Target not created
+Build target 'Target 1'
+compiling lcd.c...
+LCD.C(31): error C202: 'enable_display': undefined identifier
+LCD.C(32): error C202: 'str': undefined identifier
+Target not created
+Build target 'Target 1'
+compiling lcd.c...
+LCD.C(31): error C202: 'str': undefined identifier
+Target not created
+Build target 'Target 1'
+compiling lcd.c...
+LCD.C(31): error C202: 'str': undefined identifier
+Target not created
+Build target 'Target 1'
+compiling lcd.c...
+LCD.C(31): error C202: 'str': undefined identifier
+Target not created
+Build target 'Target 1'
+compiling lcd.c...
+LCD.C(32): warning C206: 'sprintf': missing function-prototype
+LCD.C(32): error C267: 'sprintf': requires ANSI-style prototype
+Target not created
+Build target 'Target 1'
+compiling lcd.c...
+LCD.C(32): warning C206: 'sprintf': missing function-prototype
+LCD.C(32): error C267: 'sprintf': requires ANSI-style prototype
+Target not created
+Build target 'Target 1'
+compiling lcd.c...
+LCD.C(32): warning C206: 'sprintf': missing function-prototype
+LCD.C(32): error C267: 'sprintf': requires ANSI-style prototype
+Target not created
+Build target 'Target 1'
+compiling lcd.c...
+LCD.C(32): warning C206: 'sprintf': missing function-prototype
+LCD.C(32): error C267: 'sprintf': requires ANSI-style prototype
+Target not created
+Build target 'Target 1'
+compiling lcd.c...
+LCD.C(32): warning C206: 'sprintf': missing function-prototype
+LCD.C(32): error C267: 'sprintf': requires ANSI-style prototype
+Target not created
+Build target 'Target 1'
+compiling lcd.c...
+LCD.C(34): warning C206: 'LCD_Gotoxy': missing function-prototype
+LCD.C(34): error C267: 'LCD_Gotoxy': requires ANSI-style prototype
+Target not created
+Build target 'Target 1'
+compiling lcd.c...
+LCD.C(34): warning C206: 'LCD_Gotoxy': missing function-prototype
+LCD.C(34): error C267: 'LCD_Gotoxy': requires ANSI-style prototype
+Target not created
+Build target 'Target 1'
+compiling lcd.c...
+LCD.C(35): warning C206: 'LCD_Puts': missing function-prototype
+LCD.C(35): error C267: 'LCD_Puts': requires ANSI-style prototype
+Target not created
+Build target 'Target 1'
+compiling lcd.c...
+LCD.C(35): warning C206: 'LCD_Puts': missing function-prototype
+LCD.C(35): error C267: 'LCD_Puts': requires ANSI-style prototype
+Target not created
+Build target 'Target 1'
+compiling lcd.c...
+LCD.C(35): warning C206: 'LCD_Puts': missing function-prototype
+LCD.C(35): error C267: 'LCD_Puts': requires ANSI-style prototype
+Target not created
+Build target 'Target 1'
+compiling lcd.c...
+LCD.C(35): warning C206: 'LCD_Puts': missing function-prototype
+LCD.C(35): error C267: 'LCD_Puts': requires ANSI-style prototype
+Target not created
+Build target 'Target 1'
+compiling lcd.c...
+LCD.C(35): warning C206: 'LCD_Puts': missing function-prototype
+LCD.C(35): error C267: 'LCD_Puts': requires ANSI-style prototype
+Target not created
+Build target 'Target 1'
+compiling lcd.c...
+LCD.C(35): warning C206: 'LCD_Puts': missing function-prototype
+LCD.C(35): error C267: 'LCD_Puts': requires ANSI-style prototype
+Target not created
+Build target 'Target 1'
+compiling lcd.c...
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _DELAY_MS/LCD
+Program Size: data=54.2 xdata=0 const=0 code=1932
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 2 Warning(s).
+Build target 'Target 1'
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _DELAY_MS/LCD
+Program Size: data=54.2 xdata=0 const=0 code=1932
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 2 Warning(s).
+Build target 'Target 1'
+compiling lcd.c...
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _DELAY_MS/LCD
+Program Size: data=54.2 xdata=0 const=0 code=1931
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 2 Warning(s).
+Build target 'Target 1'
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _DELAY_MS/LCD
+Program Size: data=54.2 xdata=0 const=0 code=1931
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 2 Warning(s).
+Build target 'Target 1'
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _DELAY_MS/LCD
+Program Size: data=54.2 xdata=0 const=0 code=1931
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 2 Warning(s).
+Build target 'Target 1'
+compiling lcd.c...
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+Program Size: data=54.2 xdata=0 const=0 code=1923
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+Program Size: data=54.2 xdata=0 const=0 code=1923
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+Program Size: data=54.2 xdata=0 const=0 code=1923
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+compiling lcd.c...
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+Program Size: data=54.2 xdata=0 const=0 code=1925
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+Program Size: data=54.2 xdata=0 const=0 code=1925
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+Program Size: data=54.2 xdata=0 const=0 code=1925
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+compiling lcd.c...
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+Program Size: data=54.2 xdata=0 const=0 code=1924
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+Program Size: data=54.2 xdata=0 const=0 code=1924
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+Program Size: data=54.2 xdata=0 const=0 code=1924
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+Program Size: data=54.2 xdata=0 const=0 code=1924
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+compiling lcd.c...
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+Program Size: data=54.2 xdata=0 const=0 code=1925
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+Program Size: data=54.2 xdata=0 const=0 code=1925
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+Program Size: data=54.2 xdata=0 const=0 code=1925
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+Program Size: data=54.2 xdata=0 const=0 code=1925
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+compiling lcd.c...
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+Program Size: data=54.2 xdata=0 const=0 code=1927
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+Program Size: data=54.2 xdata=0 const=0 code=1927
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+Program Size: data=54.2 xdata=0 const=0 code=1927
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+Program Size: data=54.2 xdata=0 const=0 code=1927
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+Program Size: data=54.2 xdata=0 const=0 code=1927
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+Program Size: data=54.2 xdata=0 const=0 code=1927
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+Program Size: data=54.2 xdata=0 const=0 code=1927
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+Program Size: data=54.2 xdata=0 const=0 code=1927
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+compiling lcd.c...
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+Program Size: data=58.2 xdata=0 const=0 code=1984
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+Program Size: data=58.2 xdata=0 const=0 code=1984
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+Program Size: data=58.2 xdata=0 const=0 code=1984
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+Program Size: data=58.2 xdata=0 const=0 code=1984
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+Program Size: data=58.2 xdata=0 const=0 code=1984
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+Program Size: data=58.2 xdata=0 const=0 code=1984
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+Program Size: data=58.2 xdata=0 const=0 code=1984
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+Program Size: data=58.2 xdata=0 const=0 code=1984
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+Program Size: data=58.2 xdata=0 const=0 code=1984
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+compiling lcd.c...
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+Program Size: data=58.2 xdata=0 const=0 code=1990
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+Program Size: data=58.2 xdata=0 const=0 code=1990
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+Program Size: data=58.2 xdata=0 const=0 code=1990
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+Program Size: data=58.2 xdata=0 const=0 code=1990
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+Program Size: data=58.2 xdata=0 const=0 code=1990
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+Program Size: data=58.2 xdata=0 const=0 code=1990
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+Program Size: data=58.2 xdata=0 const=0 code=1990
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+Program Size: data=58.2 xdata=0 const=0 code=1990
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+Program Size: data=58.2 xdata=0 const=0 code=1990
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+Program Size: data=58.2 xdata=0 const=0 code=1990
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+Program Size: data=58.2 xdata=0 const=0 code=1990
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+compiling lcd.c...
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+Program Size: data=58.2 xdata=0 const=0 code=2024
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+Program Size: data=58.2 xdata=0 const=0 code=2024
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+compiling lcd.c...
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+Program Size: data=58.2 xdata=0 const=0 code=1992
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+Program Size: data=58.2 xdata=0 const=0 code=1992
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+Program Size: data=58.2 xdata=0 const=0 code=1992
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+compiling lcd.c...
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+Program Size: data=58.2 xdata=0 const=0 code=1990
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+Program Size: data=58.2 xdata=0 const=0 code=1990
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+compiling lcd.c...
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+Program Size: data=58.2 xdata=0 const=0 code=1991
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+Program Size: data=58.2 xdata=0 const=0 code=1991
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+Program Size: data=58.2 xdata=0 const=0 code=1991
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+compiling lcd.c...
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+Program Size: data=58.2 xdata=0 const=0 code=1991
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+Program Size: data=58.2 xdata=0 const=0 code=1991
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+Program Size: data=58.2 xdata=0 const=0 code=1991
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+Program Size: data=58.2 xdata=0 const=0 code=1991
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+compiling lcd.c...
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+Program Size: data=58.2 xdata=0 const=0 code=1988
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+Program Size: data=58.2 xdata=0 const=0 code=1988
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+compiling lcd.c...
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+Program Size: data=58.2 xdata=0 const=0 code=1988
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+Program Size: data=58.2 xdata=0 const=0 code=1988
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+Program Size: data=58.2 xdata=0 const=0 code=1988
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+compiling lcd.c...
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+Program Size: data=58.2 xdata=0 const=0 code=1991
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+Program Size: data=58.2 xdata=0 const=0 code=1991
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+Program Size: data=58.2 xdata=0 const=0 code=1991
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+compiling lcd.c...
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+Program Size: data=58.2 xdata=0 const=0 code=1996
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+compiling lcd.c...
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+Program Size: data=58.2 xdata=0 const=0 code=1993
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+Program Size: data=58.2 xdata=0 const=0 code=1993
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+compiling lcd.c...
+HS1101/HS1101.C(36): warning C235: parameter 1: different types
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+Program Size: data=58.2 xdata=0 const=0 code=2001
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 2 Warning(s).
+Build target 'Target 1'
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+Program Size: data=58.2 xdata=0 const=0 code=2001
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+Program Size: data=58.2 xdata=0 const=0 code=2001
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+Program Size: data=58.2 xdata=0 const=0 code=2001
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+Program Size: data=58.2 xdata=0 const=0 code=2001
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+Program Size: data=58.2 xdata=0 const=0 code=2001
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+Program Size: data=58.2 xdata=0 const=0 code=2001
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+Program Size: data=58.2 xdata=0 const=0 code=2001
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+compiling lcd.c...
+HS1101/HS1101.C(36): warning C235: parameter 1: different types
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+Program Size: data=58.2 xdata=0 const=0 code=2000
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 2 Warning(s).
+Build target 'Target 1'
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+Program Size: data=58.2 xdata=0 const=0 code=2000
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+Program Size: data=58.2 xdata=0 const=0 code=2000
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+Program Size: data=58.2 xdata=0 const=0 code=2000
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+Program Size: data=58.2 xdata=0 const=0 code=2000
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+Program Size: data=58.2 xdata=0 const=0 code=2000
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+compiling lcd.c...
+HS1101/HS1101.C(36): warning C235: parameter 1: different types
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+Program Size: data=58.2 xdata=0 const=0 code=2001
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 2 Warning(s).
+Build target 'Target 1'
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+Program Size: data=58.2 xdata=0 const=0 code=2001
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+Program Size: data=58.2 xdata=0 const=0 code=2001
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+compiling lcd.c...
+HS1101/HS1101.C(36): warning C235: parameter 1: different types
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+Program Size: data=58.2 xdata=0 const=0 code=2001
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 2 Warning(s).
+Build target 'Target 1'
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+Program Size: data=58.2 xdata=0 const=0 code=2001
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+compiling lcd.c...
+HS1101/HS1101.C(36): warning C235: parameter 1: different types
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _LCD_GOTOXY/LCD
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+Program Size: data=58.2 xdata=0 const=0 code=1994
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 3 Warning(s).
+Build target 'Target 1'
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _LCD_GOTOXY/LCD
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+Program Size: data=58.2 xdata=0 const=0 code=1994
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 2 Warning(s).
+Build target 'Target 1'
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _LCD_GOTOXY/LCD
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+Program Size: data=58.2 xdata=0 const=0 code=1994
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 2 Warning(s).
+Build target 'Target 1'
+compiling lcd.c...
+HS1101/HS1101.C(36): warning C235: parameter 1: different types
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+Program Size: data=58.2 xdata=0 const=0 code=2006
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 2 Warning(s).
+Build target 'Target 1'
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+Program Size: data=58.2 xdata=0 const=0 code=2006
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+Program Size: data=58.2 xdata=0 const=0 code=2006
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+Program Size: data=58.2 xdata=0 const=0 code=2006
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+compiling lcd.c...
+HS1101/HS1101.C(36): error C231: '_HS1101_GetHumi': redefinition
+HS1101/HS1101.C(43): error C231: '_HS1101_GetHumi': redefinition
+Target not created
+Build target 'Target 1'
+compiling lcd.c...
+HS1101/HS1101.C(36): error C231: '_HS1101_GetHumi': redefinition
+HS1101/HS1101.C(43): error C231: '_HS1101_GetHumi': redefinition
+Target not created
+Build target 'Target 1'
+compiling lcd.c...
+HS1101/HS1101.C(36): error C231: '_HS1101_GetHumi': redefinition
+HS1101/HS1101.C(43): error C231: '_HS1101_GetHumi': redefinition
+Target not created
+Build target 'Target 1'
+compiling lcd.c...
+HS1101/HS1101.C(36): error C231: '_HS1101_GetHumi': redefinition
+HS1101/HS1101.C(43): error C231: '_HS1101_GetHumi': redefinition
+Target not created
+Build target 'Target 1'
+compiling lcd.c...
+HS1101/HS1101.C(36): error C231: '_HS1101_GetHumi': redefinition
+HS1101/HS1101.C(43): error C231: '_HS1101_GetHumi': redefinition
+Target not created
+Build target 'Target 1'
+compiling lcd.c...
+HS1101/HS1101.C(36): error C231: '_HS1101_GetHumi': redefinition
+HS1101/HS1101.C(43): error C231: '_HS1101_GetHumi': redefinition
+Target not created
+Build target 'Target 1'
+compiling lcd.c...
+HS1101/HS1101.C(36): error C231: '_HS1101_GetHumi': redefinition
+HS1101/HS1101.C(43): error C231: '_HS1101_GetHumi': redefinition
+Target not created
+Build target 'Target 1'
+compiling lcd.c...
+HS1101/HS1101.C(36): warning C235: parameter 1: different types
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+Program Size: data=59.2 xdata=0 const=0 code=2012
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 2 Warning(s).
+Build target 'Target 1'
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+Program Size: data=59.2 xdata=0 const=0 code=2012
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+Program Size: data=59.2 xdata=0 const=0 code=2012
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+Program Size: data=59.2 xdata=0 const=0 code=2012
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+compiling lcd.c...
+HS1101/HS1101.C(36): warning C235: parameter 1: different types
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+Program Size: data=59.2 xdata=0 const=0 code=2012
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 2 Warning(s).
+Build target 'Target 1'
+compiling lcd.c...
+HS1101/HS1101.C(36): error C231: '_HS1101_GetHumi': redefinition
+HS1101/HS1101.C(43): error C231: '_HS1101_GetHumi': redefinition
+Target not created
+Build target 'Target 1'
+compiling lcd.c...
+HS1101/HS1101.C(36): error C231: '_HS1101_GetHumi': redefinition
+HS1101/HS1101.C(43): error C231: '_HS1101_GetHumi': redefinition
+Target not created
+Build target 'Target 1'
+compiling lcd.c...
+HS1101/HS1101.C(36): error C231: '_HS1101_GetHumi': redefinition
+HS1101/HS1101.C(43): error C231: '_HS1101_GetHumi': redefinition
+Target not created
+Build target 'Target 1'
+compiling lcd.c...
+HS1101/HS1101.C(36): warning C235: parameter 1: different types
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+Program Size: data=59.2 xdata=0 const=0 code=2030
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 2 Warning(s).
+Build target 'Target 1'
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+Program Size: data=59.2 xdata=0 const=0 code=2030
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+Program Size: data=59.2 xdata=0 const=0 code=2030
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+compiling lcd.c...
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+Program Size: data=59.2 xdata=0 const=0 code=2030
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+Program Size: data=59.2 xdata=0 const=0 code=2030
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+Program Size: data=59.2 xdata=0 const=0 code=2030
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+Program Size: data=59.2 xdata=0 const=0 code=2030
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+Program Size: data=59.2 xdata=0 const=0 code=2030
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+Program Size: data=59.2 xdata=0 const=0 code=2030
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+Program Size: data=59.2 xdata=0 const=0 code=2030
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+Program Size: data=59.2 xdata=0 const=0 code=2030
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+compiling lcd.c...
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+Program Size: data=59.2 xdata=0 const=0 code=2030
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+Program Size: data=59.2 xdata=0 const=0 code=2030
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+Program Size: data=59.2 xdata=0 const=0 code=2030
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+Program Size: data=59.2 xdata=0 const=0 code=2030
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+Program Size: data=59.2 xdata=0 const=0 code=2030
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+Program Size: data=59.2 xdata=0 const=0 code=2030
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+Program Size: data=59.2 xdata=0 const=0 code=2030
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+Program Size: data=59.2 xdata=0 const=0 code=2030
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+Program Size: data=59.2 xdata=0 const=0 code=2030
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+compiling lcd.c...
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+Program Size: data=59.2 xdata=0 const=0 code=2031
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+Program Size: data=59.2 xdata=0 const=0 code=2031
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+Program Size: data=59.2 xdata=0 const=0 code=2031
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+Program Size: data=59.2 xdata=0 const=0 code=2031
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+Program Size: data=59.2 xdata=0 const=0 code=2031
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+Program Size: data=59.2 xdata=0 const=0 code=2031
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+Program Size: data=59.2 xdata=0 const=0 code=2031
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+Program Size: data=59.2 xdata=0 const=0 code=2031
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+Program Size: data=59.2 xdata=0 const=0 code=2031
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+Program Size: data=59.2 xdata=0 const=0 code=2031
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+Program Size: data=59.2 xdata=0 const=0 code=2031
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+Program Size: data=59.2 xdata=0 const=0 code=2031
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+Program Size: data=59.2 xdata=0 const=0 code=2031
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+compiling lcd.c...
+DS18B20.C(72): error C202: 'nhiet_thuc': undefined identifier
+DS18B20.C(73): error C202: 'nhiet_thuc': undefined identifier
+DS18B20.C(74): error C202: 'nhiet_thuc': undefined identifier
+lcd.c(54): error C300: unterminated comment
+Target not created
+Build target 'Target 1'
+compiling lcd.c...
+DS18B20.C(72): error C202: 'nhiet_thuc': undefined identifier
+DS18B20.C(73): error C202: 'nhiet_thuc': undefined identifier
+DS18B20.C(74): error C202: 'nhiet_thuc': undefined identifier
+lcd.c(54): error C300: unterminated comment
+Target not created
+Build target 'Target 1'
+compiling lcd.c...
+lcd.c(54): error C300: unterminated comment
+Target not created
+Build target 'Target 1'
+compiling lcd.c...
+lcd.c(54): error C300: unterminated comment
+Target not created
+Build target 'Target 1'
+compiling lcd.c...
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+Program Size: data=59.2 xdata=0 const=0 code=2031
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+Program Size: data=59.2 xdata=0 const=0 code=2031
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+Program Size: data=59.2 xdata=0 const=0 code=2031
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+Program Size: data=59.2 xdata=0 const=0 code=2031
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+Program Size: data=59.2 xdata=0 const=0 code=2031
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+Program Size: data=59.2 xdata=0 const=0 code=2031
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+Program Size: data=59.2 xdata=0 const=0 code=2031
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+compiling lcd.c...
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    READTEMP/LCD
+Program Size: data=60.2 xdata=0 const=0 code=2204
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 2 Warning(s).
+Build target 'Target 1'
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    READTEMP/LCD
+Program Size: data=60.2 xdata=0 const=0 code=2204
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 2 Warning(s).
+Build target 'Target 1'
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    READTEMP/LCD
+Program Size: data=60.2 xdata=0 const=0 code=2204
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 2 Warning(s).
+Build target 'Target 1'
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    READTEMP/LCD
+Program Size: data=60.2 xdata=0 const=0 code=2204
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 2 Warning(s).
+Build target 'Target 1'
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    READTEMP/LCD
+Program Size: data=60.2 xdata=0 const=0 code=2204
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 2 Warning(s).
+Build target 'Target 1'
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    READTEMP/LCD
+Program Size: data=60.2 xdata=0 const=0 code=2204
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 2 Warning(s).
+Build target 'Target 1'
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    READTEMP/LCD
+Program Size: data=60.2 xdata=0 const=0 code=2204
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 2 Warning(s).
+Build target 'Target 1'
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    READTEMP/LCD
+Program Size: data=60.2 xdata=0 const=0 code=2204
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 2 Warning(s).
+Build target 'Target 1'
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    READTEMP/LCD
+Program Size: data=60.2 xdata=0 const=0 code=2204
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 2 Warning(s).
+Build target 'Target 1'
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    READTEMP/LCD
+Program Size: data=60.2 xdata=0 const=0 code=2204
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 2 Warning(s).
+Build target 'Target 1'
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    READTEMP/LCD
+Program Size: data=60.2 xdata=0 const=0 code=2204
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 2 Warning(s).
+Build target 'Target 1'
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    READTEMP/LCD
+Program Size: data=60.2 xdata=0 const=0 code=2204
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 2 Warning(s).
+Build target 'Target 1'
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    READTEMP/LCD
+Program Size: data=60.2 xdata=0 const=0 code=2204
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 2 Warning(s).
+Build target 'Target 1'
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    READTEMP/LCD
+Program Size: data=60.2 xdata=0 const=0 code=2204
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 2 Warning(s).
+Build target 'Target 1'
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    READTEMP/LCD
+Program Size: data=60.2 xdata=0 const=0 code=2204
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 2 Warning(s).
+Build target 'Target 1'
+compiling lcd.c...
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    READTEMP/LCD
+Program Size: data=60.2 xdata=0 const=0 code=2204
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 2 Warning(s).
+Build target 'Target 1'
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    READTEMP/LCD
+Program Size: data=60.2 xdata=0 const=0 code=2204
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 2 Warning(s).
+Build target 'Target 1'
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    READTEMP/LCD
+Program Size: data=60.2 xdata=0 const=0 code=2204
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 2 Warning(s).
+Build target 'Target 1'
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    READTEMP/LCD
+Program Size: data=60.2 xdata=0 const=0 code=2204
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 2 Warning(s).
+Build target 'Target 1'
+compiling lcd.c...
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    READTEMP/LCD
+Program Size: data=60.2 xdata=0 const=0 code=2204
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 2 Warning(s).
+Build target 'Target 1'
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    READTEMP/LCD
+Program Size: data=60.2 xdata=0 const=0 code=2204
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 2 Warning(s).
+Build target 'Target 1'
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    READTEMP/LCD
+Program Size: data=60.2 xdata=0 const=0 code=2204
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 2 Warning(s).
+Build target 'Target 1'
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    READTEMP/LCD
+Program Size: data=60.2 xdata=0 const=0 code=2204
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 2 Warning(s).
+Build target 'Target 1'
+compiling lcd.c...
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+Program Size: data=61.2 xdata=0 const=0 code=2211
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+Program Size: data=61.2 xdata=0 const=0 code=2211
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+compiling lcd.c...
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+Program Size: data=61.2 xdata=0 const=0 code=2260
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+Program Size: data=61.2 xdata=0 const=0 code=2260
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+Program Size: data=61.2 xdata=0 const=0 code=2260
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+Program Size: data=61.2 xdata=0 const=0 code=2260
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+Program Size: data=61.2 xdata=0 const=0 code=2260
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+compiling lcd.c...
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+Program Size: data=60.2 xdata=0 const=0 code=2249
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+Program Size: data=60.2 xdata=0 const=0 code=2249
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+Program Size: data=60.2 xdata=0 const=0 code=2249
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+compiling lcd.c...
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+Program Size: data=61.2 xdata=0 const=0 code=2260
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+Program Size: data=61.2 xdata=0 const=0 code=2260
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+Program Size: data=61.2 xdata=0 const=0 code=2260
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+Program Size: data=61.2 xdata=0 const=0 code=2260
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+Program Size: data=61.2 xdata=0 const=0 code=2260
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+Program Size: data=61.2 xdata=0 const=0 code=2260
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+Program Size: data=61.2 xdata=0 const=0 code=2260
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+Program Size: data=61.2 xdata=0 const=0 code=2260
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+Program Size: data=61.2 xdata=0 const=0 code=2260
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+Program Size: data=61.2 xdata=0 const=0 code=2260
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+compiling lcd.c...
+LCD.C(49): error C202: 'nhietdo2': undefined identifier
+Target not created
+Build target 'Target 1'
+compiling lcd.c...
+LCD.C(49): error C202: 'nhietdo2': undefined identifier
+Target not created
+Build target 'Target 1'
+compiling lcd.c...
+LCD.C(49): error C202: 'nhietdo2': undefined identifier
+Target not created
+Build target 'Target 1'
+compiling lcd.c...
+LCD.C(49): error C202: 'nhietdo2': undefined identifier
+Target not created
+Build target 'Target 1'
+compiling lcd.c...
+LCD.C(49): error C202: 'nhietdo2': undefined identifier
+Target not created
+Build target 'Target 1'
+compiling lcd.c...
+LCD.C(49): error C202: 'nhietdo2': undefined identifier
+Target not created
+Build target 'Target 1'
+compiling lcd.c...
+LCD.C(49): error C202: 'nhietdo2': undefined identifier
+Target not created
+Build target 'Target 1'
+compiling lcd.c...
+LCD.C(9): error C141: syntax error near 'P0', expected '='
+LCD.C(10): error C141: syntax error near 'sbit', expected ';'
+LCD.C(12): error C141: syntax error near 'int', expected ';'
+LCD.C(49): error C202: 'sw1': undefined identifier
+LCD.C(50): error C202: 'sw2': undefined identifier
+LCD.C(53): error C202: 'nhietdo2': undefined identifier
+Target not created
+Build target 'Target 1'
+compiling lcd.c...
+LCD.C(9): error C141: syntax error near 'P0', expected '='
+LCD.C(10): error C141: syntax error near 'sbit', expected ';'
+LCD.C(12): error C141: syntax error near 'int', expected ';'
+LCD.C(49): error C202: 'sw1': undefined identifier
+LCD.C(50): error C202: 'sw2': undefined identifier
+LCD.C(53): error C202: 'nhietdo2': undefined identifier
+Target not created
+Build target 'Target 1'
+compiling lcd.c...
+LCD.C(9): error C141: syntax error near 'P0', expected '='
+LCD.C(10): error C141: syntax error near 'P0', expected '='
+LCD.C(49): error C202: 'sw1': undefined identifier
+LCD.C(50): error C202: 'sw2': undefined identifier
+LCD.C(53): error C202: 'nhietdo2': undefined identifier
+Target not created
+Build target 'Target 1'
+compiling lcd.c...
+LCD.C(9): error C141: syntax error near 'P0', expected '='
+LCD.C(10): error C141: syntax error near 'P0', expected '='
+LCD.C(49): error C202: 'sw1': undefined identifier
+LCD.C(50): error C202: 'sw2': undefined identifier
+LCD.C(53): error C202: 'nhietdo2': undefined identifier
+Target not created
+Build target 'Target 1'
+compiling lcd.c...
+LCD.C(53): error C202: 'nhietdo2': undefined identifier
+Target not created
+Build target 'Target 1'
+compiling lcd.c...
+LCD.C(53): error C202: 'nhietdo2': undefined identifier
+Target not created
+Build target 'Target 1'
+compiling lcd.c...
+LCD.C(53): error C202: 'nhietdo2': undefined identifier
+Target not created
+Build target 'Target 1'
+compiling lcd.c...
+LCD.C(53): error C202: 'nhietdo2': undefined identifier
+Target not created
+Build target 'Target 1'
+compiling lcd.c...
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+Program Size: data=61.2 xdata=0 const=0 code=2343
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+Program Size: data=61.2 xdata=0 const=0 code=2343
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+Program Size: data=61.2 xdata=0 const=0 code=2343
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+Program Size: data=61.2 xdata=0 const=0 code=2343
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+Program Size: data=61.2 xdata=0 const=0 code=2343
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+Program Size: data=61.2 xdata=0 const=0 code=2343
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+Program Size: data=61.2 xdata=0 const=0 code=2343
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+compiling lcd.c...
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+Program Size: data=61.2 xdata=0 const=0 code=2380
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+Program Size: data=61.2 xdata=0 const=0 code=2380
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+Program Size: data=61.2 xdata=0 const=0 code=2380
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+Program Size: data=61.2 xdata=0 const=0 code=2380
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+Program Size: data=61.2 xdata=0 const=0 code=2380
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+Program Size: data=61.2 xdata=0 const=0 code=2380
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+Program Size: data=61.2 xdata=0 const=0 code=2380
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+Program Size: data=61.2 xdata=0 const=0 code=2380
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+compiling lcd.c...
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+Program Size: data=61.2 xdata=0 const=0 code=2380
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+Program Size: data=61.2 xdata=0 const=0 code=2380
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+Program Size: data=61.2 xdata=0 const=0 code=2380
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+Program Size: data=61.2 xdata=0 const=0 code=2380
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+Program Size: data=61.2 xdata=0 const=0 code=2380
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+Program Size: data=61.2 xdata=0 const=0 code=2380
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+Program Size: data=61.2 xdata=0 const=0 code=2380
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+Program Size: data=61.2 xdata=0 const=0 code=2380
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+compiling lcd.c...
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+Program Size: data=61.2 xdata=0 const=0 code=2394
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+Program Size: data=61.2 xdata=0 const=0 code=2394
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+compiling lcd.c...
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+Program Size: data=61.2 xdata=0 const=0 code=2394
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+Program Size: data=61.2 xdata=0 const=0 code=2394
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+Program Size: data=61.2 xdata=0 const=0 code=2394
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+compiling lcd.c...
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+Program Size: data=61.2 xdata=0 const=0 code=2400
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+Program Size: data=61.2 xdata=0 const=0 code=2400
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+Program Size: data=61.2 xdata=0 const=0 code=2400
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+Program Size: data=61.2 xdata=0 const=0 code=2400
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+compiling lcd.c...
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+Program Size: data=61.2 xdata=0 const=0 code=2400
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+Program Size: data=61.2 xdata=0 const=0 code=2400
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+compiling lcd.c...
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+Program Size: data=61.2 xdata=0 const=0 code=2400
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+Program Size: data=61.2 xdata=0 const=0 code=2400
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+compiling lcd.c...
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+Program Size: data=61.2 xdata=0 const=0 code=2386
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+Program Size: data=61.2 xdata=0 const=0 code=2386
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+Program Size: data=61.2 xdata=0 const=0 code=2386
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+compiling lcd.c...
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+Program Size: data=61.2 xdata=0 const=0 code=2386
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+Program Size: data=61.2 xdata=0 const=0 code=2386
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+compiling lcd.c...
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+Program Size: data=61.2 xdata=0 const=0 code=2386
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+Program Size: data=61.2 xdata=0 const=0 code=2386
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+Program Size: data=61.2 xdata=0 const=0 code=2386
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+Program Size: data=61.2 xdata=0 const=0 code=2386
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+Program Size: data=61.2 xdata=0 const=0 code=2386
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+compiling lcd.c...
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+Program Size: data=61.2 xdata=0 const=0 code=2386
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+compiling lcd.c...
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _LCD_PUTS/LCD
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _LCD_GOTOXY/LCD
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _HS1101_GETHUMI/LCD
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    READTEMP/LCD
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _DELAY_MS/LCD
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    PRINTF/PRINTF
+Program Size: data=71.2 xdata=0 const=0 code=2168
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 7 Warning(s).
+Build target 'Target 1'
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _LCD_PUTS/LCD
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _LCD_GOTOXY/LCD
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _HS1101_GETHUMI/LCD
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    READTEMP/LCD
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _DELAY_MS/LCD
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    PRINTF/PRINTF
+Program Size: data=71.2 xdata=0 const=0 code=2168
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 7 Warning(s).
+Build target 'Target 1'
+compiling lcd.c...
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _LCD_PUTS/LCD
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _LCD_GOTOXY/LCD
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _HS1101_GETHUMI/LCD
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    READTEMP/LCD
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _DELAY_MS/LCD
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    PRINTF/PRINTF
+Program Size: data=71.2 xdata=0 const=0 code=2168
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 7 Warning(s).
+Build target 'Target 1'
+compiling lcd.c...
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+Program Size: data=63.2 xdata=0 const=0 code=2386
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+Program Size: data=63.2 xdata=0 const=0 code=2386
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+compiling lcd.c...
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+Program Size: data=63.2 xdata=0 const=0 code=2386
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+Program Size: data=63.2 xdata=0 const=0 code=2386
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+Program Size: data=63.2 xdata=0 const=0 code=2386
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+Program Size: data=63.2 xdata=0 const=0 code=2386
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+Program Size: data=63.2 xdata=0 const=0 code=2386
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+Program Size: data=63.2 xdata=0 const=0 code=2386
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+Program Size: data=63.2 xdata=0 const=0 code=2386
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+Program Size: data=63.2 xdata=0 const=0 code=2386
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+Program Size: data=63.2 xdata=0 const=0 code=2386
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+compiling lcd.c...
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+Program Size: data=63.2 xdata=0 const=0 code=2392
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+Program Size: data=63.2 xdata=0 const=0 code=2392
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+Program Size: data=63.2 xdata=0 const=0 code=2392
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+Program Size: data=63.2 xdata=0 const=0 code=2392
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+Program Size: data=63.2 xdata=0 const=0 code=2392
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+Program Size: data=63.2 xdata=0 const=0 code=2392
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+Program Size: data=63.2 xdata=0 const=0 code=2392
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+Program Size: data=63.2 xdata=0 const=0 code=2392
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+Program Size: data=63.2 xdata=0 const=0 code=2392
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+Program Size: data=63.2 xdata=0 const=0 code=2392
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+compiling lcd.c...
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+Program Size: data=65.2 xdata=0 const=0 code=2402
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+Program Size: data=65.2 xdata=0 const=0 code=2402
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+Program Size: data=65.2 xdata=0 const=0 code=2402
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+Program Size: data=65.2 xdata=0 const=0 code=2402
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+Program Size: data=65.2 xdata=0 const=0 code=2402
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+Program Size: data=65.2 xdata=0 const=0 code=2402
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+Program Size: data=65.2 xdata=0 const=0 code=2402
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+Program Size: data=65.2 xdata=0 const=0 code=2402
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+Program Size: data=65.2 xdata=0 const=0 code=2402
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+Program Size: data=65.2 xdata=0 const=0 code=2402
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+Program Size: data=65.2 xdata=0 const=0 code=2402
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+Program Size: data=65.2 xdata=0 const=0 code=2402
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+Program Size: data=65.2 xdata=0 const=0 code=2402
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+Program Size: data=65.2 xdata=0 const=0 code=2402
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+Program Size: data=65.2 xdata=0 const=0 code=2402
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+Program Size: data=65.2 xdata=0 const=0 code=2402
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+Program Size: data=65.2 xdata=0 const=0 code=2402
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+Program Size: data=65.2 xdata=0 const=0 code=2402
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+Program Size: data=65.2 xdata=0 const=0 code=2402
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+compiling lcd.c...
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+Program Size: data=67.2 xdata=0 const=0 code=2445
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+Program Size: data=67.2 xdata=0 const=0 code=2445
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+compiling lcd.c...
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+Program Size: data=67.2 xdata=0 const=0 code=2464
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+Program Size: data=67.2 xdata=0 const=0 code=2464
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+Program Size: data=67.2 xdata=0 const=0 code=2464
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+Program Size: data=67.2 xdata=0 const=0 code=2464
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+Program Size: data=67.2 xdata=0 const=0 code=2464
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+Program Size: data=67.2 xdata=0 const=0 code=2464
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+Program Size: data=67.2 xdata=0 const=0 code=2464
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+Program Size: data=67.2 xdata=0 const=0 code=2464
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+compiling lcd.c...
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+Program Size: data=67.2 xdata=0 const=0 code=2513
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+Program Size: data=67.2 xdata=0 const=0 code=2513
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+Program Size: data=67.2 xdata=0 const=0 code=2513
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+Program Size: data=67.2 xdata=0 const=0 code=2513
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+Program Size: data=67.2 xdata=0 const=0 code=2513
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+compiling lcd.c...
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+Program Size: data=67.2 xdata=0 const=0 code=2520
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+Program Size: data=67.2 xdata=0 const=0 code=2520
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+compiling lcd.c...
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+Program Size: data=67.2 xdata=0 const=0 code=2520
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+Program Size: data=67.2 xdata=0 const=0 code=2520
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+compiling lcd.c...
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+Program Size: data=67.2 xdata=0 const=0 code=2520
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+Program Size: data=67.2 xdata=0 const=0 code=2520
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+Program Size: data=67.2 xdata=0 const=0 code=2520
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+Program Size: data=67.2 xdata=0 const=0 code=2520
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+Program Size: data=67.2 xdata=0 const=0 code=2520
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+compiling lcd.c...
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+Program Size: data=67.2 xdata=0 const=0 code=2526
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+Program Size: data=67.2 xdata=0 const=0 code=2526
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+compiling lcd.c...
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+Program Size: data=67.2 xdata=0 const=0 code=2527
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+Program Size: data=67.2 xdata=0 const=0 code=2527
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+compiling lcd.c...
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+Program Size: data=67.2 xdata=0 const=0 code=2526
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+Program Size: data=67.2 xdata=0 const=0 code=2526
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+Program Size: data=67.2 xdata=0 const=0 code=2526
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+Program Size: data=67.2 xdata=0 const=0 code=2526
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+compiling lcd.c...
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+Program Size: data=67.2 xdata=0 const=0 code=2526
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+Program Size: data=67.2 xdata=0 const=0 code=2526
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+Program Size: data=67.2 xdata=0 const=0 code=2526
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+Program Size: data=67.2 xdata=0 const=0 code=2526
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+compiling lcd.c...
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+Program Size: data=67.2 xdata=0 const=0 code=2525
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+Program Size: data=67.2 xdata=0 const=0 code=2525
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+Program Size: data=67.2 xdata=0 const=0 code=2525
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+compiling lcd.c...
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+Program Size: data=67.2 xdata=0 const=0 code=2526
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+Program Size: data=67.2 xdata=0 const=0 code=2526
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+Program Size: data=67.2 xdata=0 const=0 code=2526
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+compiling lcd.c...
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+Program Size: data=67.2 xdata=0 const=0 code=2530
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+Program Size: data=67.2 xdata=0 const=0 code=2530
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+Program Size: data=67.2 xdata=0 const=0 code=2530
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+Program Size: data=67.2 xdata=0 const=0 code=2530
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+Program Size: data=67.2 xdata=0 const=0 code=2530
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+Program Size: data=67.2 xdata=0 const=0 code=2530
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+Program Size: data=67.2 xdata=0 const=0 code=2530
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+compiling lcd.c...
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+Program Size: data=67.2 xdata=0 const=0 code=2530
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+Program Size: data=67.2 xdata=0 const=0 code=2530
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+Program Size: data=67.2 xdata=0 const=0 code=2530
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+compiling lcd.c...
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+Program Size: data=67.2 xdata=0 const=0 code=2528
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+Program Size: data=67.2 xdata=0 const=0 code=2528
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+compiling lcd.c...
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+Program Size: data=67.2 xdata=0 const=0 code=2521
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+Program Size: data=67.2 xdata=0 const=0 code=2521
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+Program Size: data=67.2 xdata=0 const=0 code=2521
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+Program Size: data=67.2 xdata=0 const=0 code=2521
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+Program Size: data=67.2 xdata=0 const=0 code=2521
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+compiling lcd.c...
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+Program Size: data=67.2 xdata=0 const=0 code=2468
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+Program Size: data=67.2 xdata=0 const=0 code=2468
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+Program Size: data=67.2 xdata=0 const=0 code=2468
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+Program Size: data=67.2 xdata=0 const=0 code=2468
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+compiling lcd.c...
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+Program Size: data=61.2 xdata=0 const=0 code=2454
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+compiling lcd.c...
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+Program Size: data=61.2 xdata=0 const=0 code=2454
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+Program Size: data=61.2 xdata=0 const=0 code=2454
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+Program Size: data=61.2 xdata=0 const=0 code=2454
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+Program Size: data=61.2 xdata=0 const=0 code=2454
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+Program Size: data=61.2 xdata=0 const=0 code=2454
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+Program Size: data=61.2 xdata=0 const=0 code=2454
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+compiling lcd.c...
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+Program Size: data=61.2 xdata=0 const=0 code=2454
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+Program Size: data=61.2 xdata=0 const=0 code=2454
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+Program Size: data=61.2 xdata=0 const=0 code=2454
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+Program Size: data=61.2 xdata=0 const=0 code=2454
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+Program Size: data=61.2 xdata=0 const=0 code=2454
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+Program Size: data=61.2 xdata=0 const=0 code=2454
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+compiling lcd.c...
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+Program Size: data=61.2 xdata=0 const=0 code=2457
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+Program Size: data=61.2 xdata=0 const=0 code=2457
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+Program Size: data=61.2 xdata=0 const=0 code=2457
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+Program Size: data=61.2 xdata=0 const=0 code=2457
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+Program Size: data=61.2 xdata=0 const=0 code=2457
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+linking...
+*** WARNING L16: UNCALLED FUNCTION, IGNORED FOR OVERLAY PROCESS
+    NAME:    _WRITE_NUM/LCD
+Program Size: data=61.2 xdata=0 const=0 code=2457
+creating hex file from "vidu"...
+"vidu" - 0 Error(s), 1 Warning(s).
